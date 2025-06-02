@@ -13,6 +13,9 @@ You can view the CV by simply opening `index.html` in any web browser.
 Or see it live here (if using GitHub Pages):  
 [https://liamwyy.github.io/Frontendproject_roadmap/](https://liamwyy.github.io/Frontendproject_roadmap/)
 
+Project Page URL:
+https://roadmap.sh/projects/single-page-cv
+
 ## 📂 How to Use
 
 To clone and edit:
